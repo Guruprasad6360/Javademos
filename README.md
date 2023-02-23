@@ -1,2 +1,5 @@
-# Javademos hi hello world
+#include<stdio.h>
+Int main(){
+ printf(“hi”);
+}
 
