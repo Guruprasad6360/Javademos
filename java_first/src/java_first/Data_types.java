@@ -11,13 +11,16 @@ public class Data_types {
 	 
 	System.out.println(Integer.MAX_VALUE); // to know the max value of datatype such as integer
        	
+	int m=54;
+	int s=m; 
+	
 	int a=65;
 	long l=a;
 	char ch='a';
 	System.out.println(ch);
 	
     int y=119;
-    char z=(char) y;
+    char z=(char) y;      // explicit casting
     System.out.println(z);
 	
    }
