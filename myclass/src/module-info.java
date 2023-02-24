@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gbhagwat
+ *
+ */
+module myclass {
+}
