@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance;   // edit
 
 public class Vechile_demo {
  public static void main(String[] args) {
