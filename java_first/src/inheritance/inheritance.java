@@ -17,8 +17,4 @@ public class inheritance {
 		 System.out.println(speed);
 	 }
  }
- class baby extends Animal{
-	 baby(){
-		 System
-	 }
- }
+
