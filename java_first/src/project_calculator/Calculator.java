@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Calculator {
  public static void main(String[] args) {
   int n1,n2,oper;
-  System.out.println("1- Adding\n 2- Substraction\n 3- Division\n 4- Multiplication" );
+  System.out.println("1- Adding\n 2- Substraction\n 3- Division\n 4- Multiplication" );  // Asking input to the user..
   System.out.println("Choose Operator:");
   Scanner sc=new Scanner(System.in);
   oper=sc.nextInt();
